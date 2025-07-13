@@ -165,7 +165,7 @@
             document.getElementById('editing_id').value = '';
             document.getElementById('cancel-edit').style.display = 'none';
         }
-
+        
         async function deleteClient(id) {
             if (!confirm('Tem certeza que deseja excluir este cliente?')) return;
 

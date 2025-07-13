@@ -37,4 +37,4 @@ Este projeto é uma aplicação simples feita com **Laravel**, **MySQL** e front
 
 ---
 
-[Instalação do projeto](./docs/install/index.md)
+### [Instalação do projeto](./docs/install/index.md)
